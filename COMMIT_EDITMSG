@@ -1,0 +1,7 @@
+Enable storing and retrieving game data ensuring persistent game states
+
+Migrates from in-memory storage to PostgreSQL using Drizzle ORM, implementing DatabaseStorage class with CRUD operations for rooms, players, and votes.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: fa7cc544-1e04-4077-a313-427d1bb7b06a
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/b460e1ea-f2f0-4d1c-9949-b878f9ba0356/fa7cc544-1e04-4077-a313-427d1bb7b06a/W7M4nzD
